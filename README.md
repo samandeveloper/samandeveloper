@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 👋 Hi, I am a passionate Web Developer and Data Analyst with more than three years of experience, I am dedicated to constantly expanding my knowledge and skills in the ever-evolving realm of web-based technologies. With a strong enthusiasm for the newest trends in the industry, I embrace the opportunity to work with new tools and technologies. Currently seeking a new experience in Data analysis, I am eager to contribute my expertise and collaborate on projects that push the boundaries of innovation
 
 **Find me all around the web:**
@@ -49,8 +50,11 @@ Here are some ideas to get you started:
 <a><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" title="Python" width="30"></a>
 <a><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Wordpress-512.png" alt="WordPress" title="WordPress" width="30"></a>
 
-
+<!--
 **Most Used Languages:**
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samandeveloper)](https://github.com/samandeveloper/github-readme-stats)
+-->
+
+
 
