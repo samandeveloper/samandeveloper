@@ -21,14 +21,6 @@ Here are some ideas to get you started:
   <img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" alt="LinkedIn" title="LinkedIn" width="30">
 </a>
 
-<a href="https://samanmohaghegh.online/">
-  <img src="https://cdn1.iconfinder.com/data/icons/flat-business-icons/128/globe-512.png" alt="Website" title="Website" width="30">
-</a>
-
-<a href="mailto:info@samanmohaghegh.online">
-  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email" title="Email" width="30">
-</a>
-
 
 **Languages and Tools:**
 
