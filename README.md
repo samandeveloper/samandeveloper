@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Find me all around the web:**
+**Find me here:**
 
 <a href="https://www.linkedin.com/in/saman-m-mohaghegh/">
   <img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" alt="LinkedIn" title="LinkedIn" width="30">
