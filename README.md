@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**
 
+<a><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" title="Python" width="30"></a>
 <a><img src="https://cdn1.iconfinder.com/data/icons/customicondesign-office-shadow/256/Sql-runner.png" alt="MSSQL" title="MSSQL" width="30"></a>
 <a><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postgresql-512.png" alt="PostgreSQL" title="PostgreSQL" width="30"></a>
 <a><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mongodb-512.png" alt="MongoDB" title="MongoDB" width="30"></a>
@@ -39,7 +40,6 @@ Here are some ideas to get you started:
 <a><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-512.png" alt="Sass" title="Sass" width="30"></a>
 <a><img src="https://cdn3.iconfinder.com/data/icons/teenyicons-solid-vol-3/15/tailwind-512.png" alt="Tailwind" title="Tailwind" width="30"></a>
 <a><img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" alt="Git" title="Git" width="30"></a>
-<a><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" title="Python" width="30"></a>
 <a><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Wordpress-512.png" alt="WordPress" title="WordPress" width="30"></a>
 
 
