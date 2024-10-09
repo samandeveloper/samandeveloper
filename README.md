@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-👋 Hi, A dedicated Developer and Data Analyst with an M.Sc. in Information Technology Engineering and three years of experience, I am committed to continuous learning and skill development in the dynamic tech industry. Enthusiastic about staying up-to-date with the latest industry trends, I eagerly embrace opportunities to work with new tools and technologies.
-
 **Find me all around the web:**
 
 <a href="https://www.linkedin.com/in/saman-m-mohaghegh/">
